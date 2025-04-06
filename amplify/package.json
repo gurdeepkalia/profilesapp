@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "devDependencies": {
+  "dependencies": {
     "@types/node": "^22.14.0"
   }
 }
